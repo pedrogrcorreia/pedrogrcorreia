@@ -1,8 +1,8 @@
-# Pedro Correia 
+# Pedro Correia 👋 
 
-## Software Engineer Student @ ISEC - Portugal, Coimbra
+## Software Engineer Student @ ISEC - Portugal, Coimbra 🎓
 
-### Languages
+### Languages and Tools 🔧
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" height="40" style="vertical-align:top; margin:4px" >
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" height="40" style="vertical-align:top; margin:4px" >
@@ -13,15 +13,17 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" height="40" style="vertical-align:top; margin:4px" >
 </p>
 
-### Find me
+### Find me 👀
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrogrcorreia-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedrogrcorreia/)
-[![Twitter](https://img.shields.io/badge/Twitter-elpedrocorreia-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/elpedrocorreia)
-[![Facebook](https://img.shields.io/badge/facebook-pedrocorreia13-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/pedrocorreia13)
-</p>
-### Stats
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=pedrogrcorreia&show_icons=true&theme=dracula) </<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogrcorreia&theme=dracula)
+<a href="https://www.linkedin.com/in/pedrogrcorreia/"> <img src="https://img.shields.io/badge/LinkedIn-pedrogrcorreia-informational?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://twitter.com/elpedrocorreia"> <img src="https://img.shields.io/badge/Twitter-elpedrocorreia-9cf?style=for-the-badge&logo=twitter" alt="LinkedIn"></a>
+<a href="https://www.facebook.com/pedrocorreia13"> <img src="https://img.shields.io/badge/facebook-pedrocorreia13-9cc?style=for-the-badge&logo=facebook" alt="LinkedIn"></a>
 
+
+
+### Stats 📊
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogrcorreia&theme=dracula) </br>
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=pedrogrcorreia&show_icons=true&theme=dracula) 
 
 
 <!---
