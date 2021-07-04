@@ -2,6 +2,10 @@
 
 ## Software Engineer Student @ ISEC - Portugal, Coimbra 🎓
 
+<p align="center">
+<a href='https://ko-fi.com/E1E757D6Z' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</p>
+
 ### Languages and Tools 🔧
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" height="40" style="vertical-align:top; margin:4px" >
