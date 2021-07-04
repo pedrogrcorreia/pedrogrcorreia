@@ -14,12 +14,13 @@
 </p>
 
 ### Find me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrogrcorreia-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedrogrcorreia/)</br>
-[![Twitter](https://img.shields.io/badge/Twitter-elpedrocorreia-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/elpedrocorreia)</br>
-[![Facebook](https://img.shields.io/badge/facebook-pedrocorreia13-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/pedrocorreia13)</br>
-
+<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pedrogrcorreia-informational?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pedrogrcorreia/)
+[![Twitter](https://img.shields.io/badge/Twitter-elpedrocorreia-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/elpedrocorreia)
+[![Facebook](https://img.shields.io/badge/facebook-pedrocorreia13-grey?style=for-the-badge&logo=facebook)](https://www.facebook.com/pedrocorreia13)
+</p>
 ### Stats
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=pedrogrcorreia&show_icons=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogrcorreia&theme=dracula)
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=pedrogrcorreia&show_icons=true&theme=dracula) </<br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogrcorreia&theme=dracula)
 
 
 
