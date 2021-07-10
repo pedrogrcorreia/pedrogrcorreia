@@ -20,9 +20,10 @@
 ### Find me 👀
 <p align="center">
 <a href="https://www.linkedin.com/in/pedrogrcorreia/"> <img src="https://img.shields.io/badge/LinkedIn-pedrogrcorreia-informational?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://twitter.com/elpedrocorreia"> <img src="https://img.shields.io/badge/Twitter-elpedrocorreia-9cf?style=for-the-badge&logo=twitter" alt="LinkedIn"></a>
-<a href="https://www.facebook.com/pedrocorreia13"> <img src="https://img.shields.io/badge/facebook-pedrocorreia13-9cc?style=for-the-badge&logo=facebook" alt="LinkedIn"></a>
-
+<a href="https://twitter.com/pedrogrcorreia"> <img src="https://img.shields.io/badge/Twitter-pedrogrcorreia-9cf?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+<a href="https://www.facebook.com/pedrogrcorreia"> <img src="https://img.shields.io/badge/facebook-pedrogrcorreia-9cc?style=for-the-badge&logo=facebook" alt="Facebook"></a>
+<a href="https://www.instagram.com/pedrogrcorreia"> <img src="https://img.shields.io/badge/instagram-pedrogrcorreia-red?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+<a href="mailto:pedrogrcorreia@gmail.com"> <img src="https://img.shields.io/badge/gmail-pedrogrcorreia-green?style=for-the-badge&logo=gmail" alt="Gmail"></a>
 
 
 ### Stats 📊
