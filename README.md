@@ -1,24 +1,43 @@
-# Pedro Correia 👋 
+# Hi 👋🏼, Pedro Correia 👨🏼‍💻
 
 ## Software Engineer Student @ ISEC - Portugal, Coimbra 🎓
 
 <p align="center">
+<br>
 <a href='https://ko-fi.com/E1E757D6Z' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </p>
-
-### Languages and Tools 🔧
+<br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" height="40" style="vertical-align:top; margin:4px" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" height="40" style="vertical-align:top; margin:4px" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" height="40" style="vertical-align:top; margin:4px" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="C++" height="40" style="vertical-align:top; margin:4px" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" height="40" style="vertical-align:top; margin:4px" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px" >
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" alt="SQLAlchemy" height="40" style="vertical-align:top; margin:4px" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&width=720&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it%E2%80%99s+bad." alt="Typing SVG" /></a>
 </p>
 
-### Find me 👀
+## Languages and Tools 🔧
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Matlab-CC2927.svg?style=for-the-badge&logo=matlab&logoColor=white">
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+</p>
+
+## Find me 👀
+<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/pedrogrcorreia/"> <img src="https://img.shields.io/badge/LinkedIn-pedrogrcorreia-informational?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://twitter.com/pedrogrcorreia"> <img src="https://img.shields.io/badge/Twitter-pedrogrcorreia-9cf?style=for-the-badge&logo=twitter" alt="Twitter"></a>
@@ -27,9 +46,12 @@
 <a href="mailto:pedrogrcorreia@gmail.com"> <img src="https://img.shields.io/badge/gmail-pedrogrcorreia-green?style=for-the-badge&logo=gmail" alt="Gmail"></a>
 
 
-### Stats 📊
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogrcorreia&theme=dracula) </br>
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=pedrogrcorreia&show_icons=true&theme=dracula) 
+## Stats 📊
+<br>
+<p align="center">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogrcorreia&theme=dracula" height=200>
+<img src ="https://github-readme-stats.vercel.app/api?username=pedrogrcorreia&show_icons=true&theme=dracula" height=200>
+</p>
 
 
 <!---
