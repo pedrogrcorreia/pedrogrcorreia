@@ -57,7 +57,7 @@
 ## Stats 📊
 <br>
 <p align="center">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogrcorreia&theme=dracula" height=200>
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogrcorreia&theme=dracula&langs_count=10&layout=compact" height=200>
 <img src ="https://github-readme-stats.vercel.app/api?username=pedrogrcorreia&show_icons=true&theme=dracula&count_private=true" height=200>
 </p>
 
